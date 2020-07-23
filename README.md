@@ -2,8 +2,6 @@
 
 I'm Brazilian 🇧🇷, working as a Full-stack developer 👨‍💻 with 10+ years of experience in back-end/frmt-end development.
 
-I have been working with international 🌐 companies developing web 🖥 and mobile 📱 applications.
-
 ## My Skills:
 - Technologies: Java, C#, NodeJs, Javascript, HTML, CSS
 - Storage: SQL, NoSQL
