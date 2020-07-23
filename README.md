@@ -1,16 +1,13 @@
-### Hi there 👋
+![FE Badge](https://img.shields.io/badge/DEV-Front--end-green) ![BE Badge](https://img.shields.io/badge/DEV-Back--end-green) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorwvieira)](https://www.linkedin.com/in/wandealves/)
 
-<!--
-**wandealves/wandealves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Brazilian 🇧🇷, working as a Full-stack developer 👨‍💻 with 10+ years of experience in back-end/frmt-end development.
 
-Here are some ideas to get you started:
+I have been working with international 🌐 companies developing web 🖥 and mobile 📱 applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Skills:
+- Technologies: Java, C#, NodeJs, Javascript, HTML, CSS
+- Storage: SQL, NoSQL
+- Versioning systems: git
+- Back-end Development: Java, C#, NodeJs
+- Front-end development: ReactJS, Angular, AngularJS
+- Mobile development: React Native, Flutter
