@@ -9,3 +9,6 @@ I'm Brazilian 🇧🇷, working as a Full-stack developer 👨‍💻 with 10+ y
 - Back-end Development: Java, C#, NodeJs
 - Front-end development: ReactJS, Angular, AngularJS
 - Mobile development: React Native, Flutter
+
+
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=wandealves&show_icons=true)
