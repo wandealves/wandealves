@@ -22,7 +22,7 @@ I'm Brazilian 🇧🇷, working as a Full-stack developer 👨‍💻 with 10+ y
 <p align="left">
   <a href="https://www.docker.com/" target="_blank">
     <img
-      src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"
+      src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"
       alt="docker"
       width="40"
       height="40"
@@ -33,7 +33,7 @@ I'm Brazilian 🇧🇷, working as a Full-stack developer 👨‍💻 with 10+ y
     target="_blank"
   >
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
+      src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"
       alt="javascript"
       width="40"
       height="40"
@@ -65,7 +65,7 @@ I'm Brazilian 🇧🇷, working as a Full-stack developer 👨‍💻 with 10+ y
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg"
+      src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"
       alt="mongodb"
       width="40"
       height="40"
