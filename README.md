@@ -39,6 +39,17 @@ I'm Brazilian 🇧🇷, working as a Full-stack developer 👨‍💻 with 10+ y
       height="40"
     />
   </a>
+    <a
+    href="https://dotnet.microsoft.com/download"
+    target="_blank"
+  >
+    <img
+      src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg"
+      alt=".net"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://www.jenkins.io" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"
