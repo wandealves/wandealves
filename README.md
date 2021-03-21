@@ -81,7 +81,7 @@ I'm Brazilian 🇧🇷, working as a Full-stack developer 👨‍💻 with 10+ y
   </a>
   <a href="https://www.postgresql.org" target="_blank">
     <img
-      src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"
+      src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"
       alt="postgresql"
       width="40"
       height="40"
