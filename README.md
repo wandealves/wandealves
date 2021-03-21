@@ -67,8 +67,8 @@ I'm Brazilian 🇧🇷, working as a Full-stack developer 👨‍💻 with 10+ y
     <img
       src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"
       alt="mongodb"
-      width="40"
-      height="40"
+      width="60"
+      height="60"
     />
   </a>
   <a href="https://nodejs.org" target="_blank">
