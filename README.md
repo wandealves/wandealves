@@ -22,7 +22,7 @@ I'm Brazilian 🇧🇷, working as a Full-stack developer 👨‍💻 with 10+ y
 <p align="left">
   <a href="https://www.docker.com/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg"
+      src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"
       alt="docker"
       width="40"
       height="40"
