@@ -68,12 +68,12 @@ I'm Brazilian 🇧🇷, working as a Full-stack developer 👨‍💻 with 10+ y
       src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"
       alt="mongodb"
       width="90"
-      height="60"
+      height="50"
     />
   </a>
   <a href="https://nodejs.org" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg"
+      src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"
       alt="nodejs"
       width="40"
       height="40"
@@ -81,7 +81,7 @@ I'm Brazilian 🇧🇷, working as a Full-stack developer 👨‍💻 with 10+ y
   </a>
   <a href="https://www.postgresql.org" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg"
+      src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg"
       alt="postgresql"
       width="40"
       height="40"
@@ -97,7 +97,7 @@ I'm Brazilian 🇧🇷, working as a Full-stack developer 👨‍💻 with 10+ y
   </a>
   <a href="https://reactjs.org/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"
+      src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"
       alt="react"
       width="40"
       height="40"
@@ -105,7 +105,7 @@ I'm Brazilian 🇧🇷, working as a Full-stack developer 👨‍💻 with 10+ y
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg"
+      src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"
       alt="typescript"
       width="40"
       height="40"
