@@ -65,10 +65,10 @@ I'm Brazilian 🇧🇷, working as a Full-stack developer 👨‍💻 with 10+ y
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img
-      src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"
+      src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"
       alt="mongodb"
-      width="90"
-      height="50"
+      width="40"
+      height="40"
     />
   </a>
   <a href="https://nodejs.org" target="_blank">
@@ -81,7 +81,7 @@ I'm Brazilian 🇧🇷, working as a Full-stack developer 👨‍💻 with 10+ y
   </a>
   <a href="https://www.postgresql.org" target="_blank">
     <img
-      src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg"
+      src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"
       alt="postgresql"
       width="40"
       height="40"
